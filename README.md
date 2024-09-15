@@ -1,6 +1,6 @@
-# StudySphere - E-learning Platform
+# LearnHub - E-learning Platform
 
-- StudySphere is an e-learning platform designed to provide a seamless and interactive learning experience for students, making education more accessible and engaging. It also serves as a platform for instructors to showcase their expertise and connect with learners across the globe.
+- LearnHub is an e-learning platform designed to provide a seamless and interactive learning experience for students, making education more accessible and engaging. It also serves as a platform for instructors to showcase their expertise and connect with learners across the globe.
 
 ## Table of Contents
 
@@ -38,8 +38,8 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
    ```js
-   git clone https://github.com/yourusername/StudySphere.git
-   cd StudySphere
+   git clone https://github.com/yourusername/LearnHub.git
+   cd LearnHub
    ```
 
 2. **Backend Setup:**
